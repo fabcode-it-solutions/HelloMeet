@@ -2,9 +2,6 @@
 
 Crystal-clear video calls. Instantly.
 
-Live Demo:
-👉 https://lets-video-meet-victor-o1s-projects.vercel.app/
-
 HelloMeet is a modern, browser-based video conferencing app built with Next.js and LiveKit. It supports HD video, real-time chat, screen sharing, and dynamic participant layouts — all with a sleek, glassmorphism-inspired UI.
 
 ✨ Features
@@ -83,9 +80,6 @@ Credentials are never exposed to the client
 📦 Deployment
 
 This project is deployed on Vercel:
-
-🌍 Production URL:
-https://lets-video-meet-victor-o1s-projects.vercel.app/
 
 To deploy your own:
 
